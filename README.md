@@ -59,11 +59,10 @@ Make sure you have the following Python libraries installed:
 - matplotlib
 - seaborn
 - scikit-learn
-- [Add other libraries if used]
 
 ## Author
 
-- [Your Name]
+- Mariam Walaa
 
 ## Acknowledgments
 
@@ -74,6 +73,4 @@ Make sure you have the following Python libraries installed:
 
 This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to customize the README file further with your project details, author information, and any additional sections you want to include. You can also create the code files with Jupyter Notebook or R Markdown and save them in the corresponding file names mentioned in the project structure.

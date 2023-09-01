@@ -1,6 +1,6 @@
 # Employee Turnover Analysis
 
-![Employee Turnover Image](attrition_image.png)
+![Employee Turnover Image](pexels-sora-shimazaki-5673488.jpg)
 
 ## Overview
 
